@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ú—ÛÉ8æé¼±€2
+\
+java:S1161":Add the "@Override" annotation above this method signature(šïÑ±ıÿÿÿÿ8éé¼±€2
+L	java:S106"+Replace this use of System.out by a logger.(¦ŞŞûÿÿÿÿ8êé¼±€2
+G	java:S106,"+Replace this use of System.out by a logger.(Ó©8ìé¼±€2
+F
+java:S11973"*Move the array designators [] to the type.(± ú88îé¼±€2

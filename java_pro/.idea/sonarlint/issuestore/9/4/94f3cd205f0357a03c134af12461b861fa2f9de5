@@ -1,0 +1,20 @@
+
+R
+java:S1854"5Remove this useless assignment to local variable "k".(ΩÚ‚á8Í”Œ≈ﬁ1
+S
+java:S1854"7Remove this useless assignment to local variable "arr".(ë€ 	8Í”Œ≈ﬁ1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(»¬Û˝8ùΩŒ≈ﬁ1
+D
+java:S1481"(Remove this unused "arr" local variable.(ë€ 	8Ì”Œ≈ﬁ1
+C
+java:S1481"&Remove this unused "k" local variable.(ΩÚ‚á8Ó”Œ≈ﬁ1
+]	java:S125"<This block of commented-out lines of code should be removed.(È∏Æ˙ˇˇˇˇ8Ó”Œ≈ﬁ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(Óñò…¸ˇˇˇˇ8Ó”Œ≈ﬁ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ8Ô”Œ≈ﬁ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(”Û∫¥˙ˇˇˇˇ8Ô”Œ≈ﬁ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(Û˜éî8Ô”Œ≈ﬁ1

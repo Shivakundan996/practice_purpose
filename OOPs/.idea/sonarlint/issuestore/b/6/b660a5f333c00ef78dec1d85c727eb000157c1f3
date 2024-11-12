@@ -1,0 +1,21 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ8®¤œÂ«2
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¥Ìœ×8¯¤œÂ«2
+7
+java:S1220""Move this file to a named package.8¯¤œÂ«2
+_
+java:S1854""=Remove this useless assignment to local variable "arrayList".(ê§äÕûÿÿÿÿ8ñ«2
+X
+java:S1854";Remove this useless assignment to local variable "test345".(íñÏè8Æ¤œÂ«2
+I
+java:S1481",Remove this unused "test345" local variable.(íñÏè8É¤œÂ«2
+L	java:S106"+Replace this use of System.out by a logger.(†Á¸ÿÿÿÿÿ8Ê¤œÂ«2
+G	java:S106"+Replace this use of System.out by a logger.(¥Ìœ×8Ë¤œÂ«2
+X	java:S125"<This block of commented-out lines of code should be removed.(áÍ8Í¤œÂ«2
+o
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8˜ñ«2
+P
+java:S1481"".Remove this unused "arrayList" local variable.(ê§äÕûÿÿÿÿ8œñ«2
+L	java:S1063"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ÜÎÂ«2

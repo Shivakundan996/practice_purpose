@@ -1,0 +1,25 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "g".(Â·×ãıÿÿÿÿ8”ˆÌü„2
+R
+java:S1854"5Remove this useless assignment to local variable "w".(ª¦’á8”ˆÌü„2
+R
+java:S1854"5Remove this useless assignment to local variable "v".(ÃÙ¦Ñ8”ˆÌü„2
+R
+java:S1854"5Remove this useless assignment to local variable "x".(½ªÏÑ8”ˆÌü„2
+W
+java:S1854"5Remove this useless assignment to local variable "f".(·âŸÈÿÿÿÿÿ8”ˆÌü„2
+G	java:S106	"+Replace this use of System.out by a logger.(¥ù°ò8–ˆÌü„2
+L	java:S106"+Replace this use of System.out by a logger.(­Õãûüÿÿÿÿ8˜ˆÌü„2
+H
+java:S1481"&Remove this unused "f" local variable.(·âŸÈÿÿÿÿÿ8™ˆÌü„2
+C
+java:S1481"&Remove this unused "x" local variable.(½ªÏÑ8šˆÌü„2
+G	java:S106"+Replace this use of System.out by a logger.(Éê—8šˆÌü„2
+C
+java:S1481"&Remove this unused "v" local variable.(ÃÙ¦Ñ8›ˆÌü„2
+C
+java:S1481"&Remove this unused "w" local variable.(ª¦’á8›ˆÌü„2
+H
+java:S1481"&Remove this unused "g" local variable.(Â·×ãıÿÿÿÿ8œˆÌü„2
+G	java:S106"+Replace this use of System.out by a logger.(½®÷“8œˆÌü„2

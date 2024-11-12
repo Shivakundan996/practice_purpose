@@ -1,0 +1,23 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÑØ§ıùÿÿÿÿ8£ùÌê2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÇ¹ÿúÿÿÿÿ8¦ùÌê2
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘Ê“¨üÿÿÿÿ8°ùÌê2
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ö“Ûî8±ùÌê2
+L	java:S106"+Replace this use of System.out by a logger.(³š¨ûÿÿÿÿ8²ùÌê2
+L	java:S106"+Replace this use of System.out by a logger.(£à®˜ÿÿÿÿÿ8³ùÌê2
+G	java:S106"+Replace this use of System.out by a logger.(Æ¨®í8´ùÌê2
+L	java:S106"+Replace this use of System.out by a logger.(©ƒÌ®øÿÿÿÿ8´ùÌê2
+I
+java:S1481"'Remove this unused "s5" local variable.(Æöî½ùÿÿÿÿ8µùÌê2
+G	java:S106"+Replace this use of System.out by a logger.(ÆŠ‹Ô8¶ùÌê2
+B
+java:S2129" Remove this "String" constructor(ı‡„¤ÿÿÿÿÿ8¿ùÌê2
+L	java:S106"+Replace this use of System.out by a logger.(ÑØ§ıùÿÿÿÿ8ÀùÌê2
+G
+java:S2201"*The return value of "concat" must be used.(ü½ëá8ÀùÌê2
+G	java:S106"+Replace this use of System.out by a logger.(˜ìÿ8ÁùÌê2
+L	java:S106 "+Replace this use of System.out by a logger.(¡õã¥ÿÿÿÿÿ8ÂùÌê2
+G	java:S106,"+Replace this use of System.out by a logger.(…Âô”8îÆÊ™2

@@ -1,0 +1,18 @@
+
+7
+java:S1643"Use a StringBuilder instead.(»ûÃÓúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş¨‚½ùÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Âô«óùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(©õ©èøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(†ñÀÌıÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ƒÚáB
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

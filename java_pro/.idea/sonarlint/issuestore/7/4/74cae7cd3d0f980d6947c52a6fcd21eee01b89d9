@@ -1,0 +1,9 @@
+
+i
+java:S2259"GA "NullPointerException" could be thrown; "centuries" is nullable here.(èˆ’Öøÿÿÿÿ8ãë¡Øƒ2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(“ìÎÛ8óó’Øƒ2
+G	java:S106"+Replace this use of System.out by a logger.(’›Ìì8õó’Øƒ2
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(¢öÁûÿÿÿÿ8‚¸Øƒ2
+L	java:S106"+Replace this use of System.out by a logger.(èˆ’Öøÿÿÿÿ8í±›Øƒ2

@@ -1,0 +1,11 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(‹Óì
+?	java:S106"+Replace this use of System.out by a logger.(¢ÏB
+V
+java:S1854":Remove this useless assignment to local variable "child2".(˜½äb8êÄßèş1
+W
+java:S1854":Remove this useless assignment to local variable "child1".(ŒÄÔğ8êÄßèş1
+H
+java:S1481"+Remove this unused "child1" local variable.(ŒÄÔğ8ëÄßèş1
+G
+java:S1481"+Remove this unused "child2" local variable.(˜½äb8ëÄßèş1

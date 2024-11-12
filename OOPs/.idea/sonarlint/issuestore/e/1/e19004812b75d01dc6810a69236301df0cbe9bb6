@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ø©éµ8‹éè¤2
+g
+java:S1854"ERemove this useless assignment to local variable "blankFinalVariabl".(–ÖæÊÿÿÿÿÿ8²ôæ¤2
+X
+java:S1481"6Remove this unused "blankFinalVariabl" local variable.(–ÖæÊÿÿÿÿÿ8´ôæ¤2

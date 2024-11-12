@@ -1,0 +1,12 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ÒßÏÿÿÿÿÿ8ÂüÕ«ú1
+Z
+java:S1854"=Remove this useless assignment to local variable "localDate".(«¿ëÄ8çüÕ«ú1
+G	java:S106"+Replace this use of System.out by a logger.(‹ßõ›8íüÕ«ú1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ïüÕ«ú1
+L	java:S106"+Replace this use of System.out by a logger.(”Îùïùÿÿÿÿ8úÈÚ«ú1
+K
+java:S1481".Remove this unused "localDate" local variable.(«¿ëÄ8ğüÕ«ú1
+R
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ8ğüÕ«ú1

@@ -1,0 +1,20 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(ü³êÑşÿÿÿÿ8²ğ…ïê1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰ıáä8¼œ€ïê1
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(­“¶À8ı‰‡ïê1
+M
+java:S2201"+The return value of "collect" must be used.(‹°…üùÿÿÿÿ8ä¨¨¡ê1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8•¦‚îê1
+F	java:S106"+Replace this use of System.out by a logger.(ÑûçI8Êì‘îê1
+L	java:S106"+Replace this use of System.out by a logger.(‡÷™ûşÿÿÿÿ8Ìì‘îê1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÛØ¿¥8İ¥÷îê1
+D
+java:S1481"'Remove this unused "s2" local variable.(­“¶À8Š‡ïê1
+B
+java:S2129" Remove this "String" constructor(Íã’÷øÿÿÿÿ8Âğ…ïê1
+G	java:S106"+Replace this use of System.out by a logger.(‰ıáä8Ïœ€ïê1
+L	java:S106"+Replace this use of System.out by a logger.(—¬Êûÿÿÿÿ8ÿÜïê1
+G	java:S106"+Replace this use of System.out by a logger.(ÃÖÌŞ8ÑÃƒïê1

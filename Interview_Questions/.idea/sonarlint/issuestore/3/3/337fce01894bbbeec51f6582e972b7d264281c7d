@@ -1,0 +1,30 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¹’Ò
+W
+java:S1854'"<Remove this useless assignment to local variable "collect3".(ÕÀ øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(õ½½Âıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(õ½½Âıÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(â³J
+J
+java:S2209"5Change this instance-reference to a static reference.(â³J
+K
+java:S2209"5Change this instance-reference to a static reference.(ø·ùª
+P
+java:S2209#"5Change this instance-reference to a static reference.(ë»Õüÿÿÿÿ
+P
+java:S2209'"5Change this instance-reference to a static reference.(ÕÀ øÿÿÿÿ
+H
+java:S1481'"-Remove this unused "collect3" local variable.(ÕÀ øÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ
+@	java:S106+"+Replace this use of System.out by a logger.(©šŒ•
+P
+java:S22096"5Change this instance-reference to a static reference.(úàáÿÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(ÜğÄã
+P
+java:S2209>"5Change this instance-reference to a static reference.(ğõÿÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(ò”é
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

@@ -1,0 +1,8 @@
+
+m	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úè¸ú8õÖ³İ‚2
+G	java:S106"+Replace this use of System.out by a logger.(ÛåÁš8„×³İ‚2
+_
+java:S1854'"BRemove this useless assignment to local variable "lenovoKeyboard".(öÒâÃ8†×³İ‚2
+F	java:S106&"+Replace this use of System.out by a logger.(·úí_8‡×³İ‚2
+P
+java:S1481'"3Remove this unused "lenovoKeyboard" local variable.(öÒâÃ8ˆ×³İ‚2

@@ -1,0 +1,14 @@
+
+t
+java:S4144"WUpdate this method so that its implementation is not identical to "display" on line 18.(Àİì8¼ãê¡—2
+W
+java:S1854":Remove this useless assignment to local variable "output".(öñÔ8õòğ¡—2
+H
+java:S1481"+Remove this unused "output" local variable.(öñÔ8ûòğ¡—2
+F	java:S106"+Replace this use of System.out by a logger.(œ˜Ô;8Çãê¡—2
+G	java:S106"+Replace this use of System.out by a logger.(¥ãó‡8Êãê¡—2
+L	java:S106"+Replace this use of System.out by a logger.(°‹¶öûÿÿÿÿ8Ëãê¡—2
+G	java:S106"+Replace this use of System.out by a logger.(¥ãó‡8Ìãê¡—2
+L	java:S106"+Replace this use of System.out by a logger.(°‹¶öûÿÿÿÿ8Íãê¡—2
+d
+java:S1128"HRemove this unused import 'org.apache.commons.lang3.ArrayUtils.indexOf'.(ì‘õ\8Îãê¡—2

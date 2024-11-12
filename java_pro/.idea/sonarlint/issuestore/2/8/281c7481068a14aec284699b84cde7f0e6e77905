@@ -1,0 +1,13 @@
+
+e
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(â‡Üÿøÿÿÿÿ8ˆü¯ÿ1
+T
+java:S1854"7Remove this useless assignment to local variable "str".(±–Øö8ü¯ÿ1
+E
+java:S1481"(Remove this unused "str" local variable.(±–Øö8ü¯ÿ1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(Ñ‡¼ÿ8ü¯ÿ1
+=
+java:S2129" Remove this "String" constructor(â˜Ê”8…½¡¯ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(´ƒ’8”ü¯ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ˆå‘¯ÿ1

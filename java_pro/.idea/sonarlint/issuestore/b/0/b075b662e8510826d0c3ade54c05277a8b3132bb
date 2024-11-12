@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÊúÀÈúÿÿÿÿ8¯ç×Çş1
+\
+java:S1854":Remove this useless assignment to local variable "parobj".(ªùÃüÿÿÿÿ8±ç×Çş1
+M
+java:S1481"+Remove this unused "parobj" local variable.(ªùÃüÿÿÿÿ8²ç×Çş1
+]	java:S125"<This block of commented-out lines of code should be removed.(è½êæùÿÿÿÿ8²ç×Çş1
+X	java:S125"<This block of commented-out lines of code should be removed.(¹ÀÚ”8²ç×Çş1
